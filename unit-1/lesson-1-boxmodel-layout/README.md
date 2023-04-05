@@ -1,4 +1,4 @@
-# Lesson 2: The Box Model
+# Lesson 1: The Box Model
 
 ## Objectives
 Fellows will be able to answer the questions...
