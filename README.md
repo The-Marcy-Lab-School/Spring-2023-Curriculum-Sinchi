@@ -1,1 +1,1 @@
-# Spring-2023-Curriculum-SInchi
+# Curriculum Resource
