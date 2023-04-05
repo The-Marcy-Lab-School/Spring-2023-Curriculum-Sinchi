@@ -14,13 +14,6 @@
   - [Inline-Block](#inline-block)
   - [Margin collapse](#margin-collapse)
 
-## Agenda and Overview
-
-* **0:00 - 0:05** | Introduction / The why
-* **0:05 - 0:20** | CSS review + specificity
-* **0:20 - 0:40** | Box Model + Box Sizing
-* **0:40 - 0:60** | Visual formatting Model / Block, Inline, and Inline-Block elements
-
 ## The Why...
 
 ![](https://github.com/The-Marcy-Lab-School/Fall-2022-Curriculum-BMC/blob/main/se-unit-1/lesson-0-semantics/images/div-boxes.gif?raw=true)
