@@ -168,7 +168,7 @@ html {
 > [w3schools code example](https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_span1)
 
 ## Margin collapse
-* Top and bottom margins "collapse" between `block` elements, meaning if you position two adjacent `block`s one above the other, the margin between them isn't thesum of the top and bottom margins. Instead, the margin _collapses_ to the larger of the two.
+* Top and bottom margins "collapse" between `block` elements, meaning if you position two adjacent `block`s one above the other, the margin between them isn't the sum of the top and bottom margins. Instead, the margin _collapses_ to the larger of the two.
 * Margin collapse only happens with top and bottom, not left and right margins.
 
 # Dimensions
