@@ -13,7 +13,7 @@
 
 ## Code-a-long Guide
 
-In this code along, we'll use HTML tables and CSS to recreate [this spreadsheet](https://docs.google.com/spreadsheets/d/1MJ6bAkZamUeOTdQvEkqUzWp_6Ms2kNq26785hhpqx0Y/edit#gid=0). 
+In this code along, we'll use HTML tables and CSS to recreate [this spreadsheet](https://docs.google.com/spreadsheets/d/12M-WLsU-rFeMvBnAQK_UotKt0sYR30q9z0keePTLxo4/edit#gid=0). 
 
 1. Every table begins with the `<table>` element which we can fill with table rows (`<tr>`) and table data (`<td>`).
 
