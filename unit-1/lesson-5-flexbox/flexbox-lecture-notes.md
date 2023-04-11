@@ -7,6 +7,7 @@
 * cross axis
 
 ## Resources
+* [Slides](https://docs.google.com/presentation/d/1GOSrb0WKd6eITNrQhcvp5QyKnasJD2QvfCK3BPiuDbI/edit?usp=sharing)
 * [Web Dev Simplified - Learn Flexbox in 15 minutes](https://www.youtube.com/watch?v=fYq5PXgSsbE)
 * [Kevin Powell - Do you understand how Flexbox does what it does?](https://www.youtube.com/watch?v=9e-lWQdO-DA)
 
