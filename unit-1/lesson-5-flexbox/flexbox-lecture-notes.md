@@ -6,6 +6,9 @@
 * main axis
 * cross axis
 
+## Resources
+* [Web Dev Simplified - Learn Flexbox in 15 minutes](https://www.youtube.com/watch?v=fYq5PXgSsbE)
+* [Kevin Powell - Do you understand how Flexbox does what it does?](https://www.youtube.com/watch?v=9e-lWQdO-DA)
 
 ## The What & The Why
 
