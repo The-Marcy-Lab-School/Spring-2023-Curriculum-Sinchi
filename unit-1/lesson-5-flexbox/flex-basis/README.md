@@ -12,7 +12,7 @@
   flex: 0 1 auto;
 }
 
-/* This is just how I think about the rule above in my head */
+/* Another way to look at it*/
 
 .child {
   flex: [flex-grow] [flex-shrink] [flex-basis];
