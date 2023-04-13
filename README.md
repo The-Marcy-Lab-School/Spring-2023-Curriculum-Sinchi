@@ -34,6 +34,6 @@
 * Mozilla Tips for [Organizing CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing) and [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
 
 ### Week 1
-*  HTML Semantics & CSS** | [Intro Slides]() | [Lecture Notes]() | 
-*  Box Model Layout** | [Lecture Notes]() 
-*  Box Model Review** | [Box Model Review + Floats Lecture Notes]()
+*  HTML Semantics & CSS | [Intro Slides]() | [Lecture Notes]() | 
+*  Box Model Layout | [Lecture Notes]() 
+*  Box Model Review | [Box Model Review + Floats Lecture Notes]()
