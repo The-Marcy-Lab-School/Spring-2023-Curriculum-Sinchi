@@ -1,4 +1,4 @@
-# Lesson 7: Responsive Layout
+# Lesson 6: Responsive Layout
 
 ## Vocabulary
 * Fluid Layout
