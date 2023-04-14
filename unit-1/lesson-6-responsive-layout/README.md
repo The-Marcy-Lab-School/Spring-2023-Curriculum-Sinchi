@@ -1,5 +1,8 @@
 # Lesson 6: Responsive Layout
 
+## Slide Deck
+[Slides](https://docs.google.com/presentation/d/1mqWZb-n8HdRcGppVrtJfWfrRV5AGkegiypxXCpsIrhI/edit?usp=sharing)
+
 ## Vocabulary
 * Fluid Layout
 * Responsive Web Design
