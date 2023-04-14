@@ -1,5 +1,8 @@
 # Lesson 7 Notes: CSS Grid
 
+## Slide Deck
+[Slides](https://docs.google.com/presentation/d/15bS5hrVotw0hOVSAfLy6GePwdcuDOWv3xoJLVLjNmkk/edit?usp=sharing)
+
 ## Vocabulary
 * grid container
 * grid items
