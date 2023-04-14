@@ -13,6 +13,7 @@
 * How do we leverage the _cascade_ to avoid having to write duplicate CSS for styles that are common across different media queries?
 
 ## Learning Assignments
+### Practice Assignment: [Media Query practice](https://github.com/jo-well29/responsive-media-query-practice)
 1. [Codecademy Learn Intermediate CSS](https://www.codecademy.com/learn/learn-intermediate-css) Lessons:
   * Learn Responsive Design
   * Accessibilty
