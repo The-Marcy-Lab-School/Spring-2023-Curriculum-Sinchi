@@ -8,9 +8,43 @@
     <link rel="stylesheet" href="style.css">
     <title>Media Queries Practice</title>
 </head>
-<script>
+<style>
+    .container {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
 
-</script>
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 10px;
+        border: 3px solid coral;
+        justify-content: space-between;
+    }
+
+    .row div {
+        padding: 10px;
+        margin: 10px;
+        background: aqua;
+        flex-basis: 200px;
+
+    }
+
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .image-mobile {
+        display: none;
+    }
+
+    /*Add your media queries CSS below here */
+
+    
+</style>
 
 <body>
     <div class="container">
@@ -25,7 +59,7 @@
                 Column 3
             </div>
         </div>
-        
+
         <img src="./random-image.png" alt="Responsive Image" class="image-full">
         <img src="./stock-image.png" alt="Responsive Image" class="image-mobile">
 
