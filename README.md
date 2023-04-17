@@ -35,5 +35,5 @@
 
 ### Week 1
 *  HTML Semantics & CSS | [Intro Slides]() | [Lecture Notes]() | 
-*  Box Model Layout | [Lecture Notes]() 
+*  Box Model Layout | [Lecture Notes]() | [Lecture Recording](https://us02web.zoom.us/rec/share/NdesESqYDHsjXxjN4X3YHQRDTTG5NpAeeF6UgQN0S9I6HxZLe2KDpU24lTgYjV8d.xAbAlQbBr0BneFUF?startTime=1680707163000)
 *  Box Model Review | [Box Model Review + Floats Lecture Notes]()
