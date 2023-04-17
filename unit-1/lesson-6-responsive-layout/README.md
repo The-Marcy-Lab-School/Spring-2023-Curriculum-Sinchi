@@ -3,6 +3,9 @@
 ## Slide Deck
 [Slides](https://docs.google.com/presentation/d/1mqWZb-n8HdRcGppVrtJfWfrRV5AGkegiypxXCpsIrhI/edit?usp=sharing)
 
+## Lecture Recording
+[Lecture] (https://us02web.zoom.us/rec/play/4nJRglRq5OExJ4Qf0lW8WbbHgR4SyNRWRB9ecKFJlt-4oDXXMSmDBgJzmWGQRuJK5MjH4nU9hUg_lufr.Jp4652zjAJaUffEg?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FHRYKLz2A-23zs3kmVZs7qkkiK_vhUHyUTAiBJRnruLVB1Tk9FJZ34_xTckpTZxs9.gwhfcLL9fRZ72Ewz)
+
 ## Vocabulary
 * Fluid Layout
 * Responsive Web Design
