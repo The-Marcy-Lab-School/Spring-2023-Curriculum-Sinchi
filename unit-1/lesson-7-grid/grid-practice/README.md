@@ -7,7 +7,7 @@ Recreate this Image only using `grid-columns` and `grid-rows`
 
 ## Activity 2:
 
-You are creating your new Web Developer Portfolio and it has the structure that looks like this:
+You are creating your new Web Developer Portfolio and it has the structure that looks similar to this:
 ![portfolio mockup](./Images/portfolio-mockup.png)
 
 ### Instructions:
