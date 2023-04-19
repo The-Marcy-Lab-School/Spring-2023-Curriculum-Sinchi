@@ -45,4 +45,4 @@
 
 ### Week 3
 * Grid
-* [Wireframe](https://docs.google.com/presentation/d/19bfh2VtQzCHDakzxIi9O5KRDaGo4rSUQ1BZw5IEg7ig/edit?usp=sharing)
+* Wireframe [Lecture Slides](https://docs.google.com/presentation/d/19bfh2VtQzCHDakzxIi9O5KRDaGo4rSUQ1BZw5IEg7ig/edit?usp=sharing) | [Figma](https://www.figma.com/files/recent?fuid=788782067563868496)
