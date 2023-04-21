@@ -46,3 +46,6 @@
 ### Week 3
 * Grid
 * Wireframe | [Lecture Slides](https://docs.google.com/presentation/d/19bfh2VtQzCHDakzxIi9O5KRDaGo4rSUQ1BZw5IEg7ig/edit?usp=sharing) | [Figma](https://www.figma.com/files/recent?fuid=788782067563868496)
+
+### Project Week
+* Project Week Kickoff | [Slide Deck](https://drive.google.com/file/d/1MZgbXbV76tQN3lj7u7ErWK8mUU9NyOlW/view?usp=sharing) | [Recording]
