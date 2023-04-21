@@ -39,12 +39,12 @@
 *  Box Model Review | [Box Model Review + Floats Lecture Notes]()
 
 ### Week 2
-* Forms
-* Flexbox
-* Responsive Layout
+* Forms | [Lecture Slides](https://drive.google.com/file/d/1F4nDGoI8i88vGweiqmGT4fEwNR6nrLXv/view?usp=sharing)
+* Flexbox | [Lecture Slides](https://drive.google.com/file/d/1rdUMxWDLTnf3W5DqHHNBlW47pCw_5Ix_/view?usp=sharing)
+* Responsive Layout | [Lecture Slides](https://drive.google.com/file/d/1Tbi2-jfACOVD7Y_9zYGH7Rr1BxFKCMzL/view?usp=sharing)
 
 ### Week 3
-* Grid
+* Grid | [Lecture Slides](https://drive.google.com/file/d/13wljaDMPJgRY0ZMqfn6XjF5gyyz-1iXj/view?usp=sharing)
 * Wireframe | [Lecture Slides](https://docs.google.com/presentation/d/19bfh2VtQzCHDakzxIi9O5KRDaGo4rSUQ1BZw5IEg7ig/edit?usp=sharing) | [Figma](https://www.figma.com/files/recent?fuid=788782067563868496)
 
 ### Project Week
