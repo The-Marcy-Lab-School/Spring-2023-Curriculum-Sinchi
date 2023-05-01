@@ -39,10 +39,14 @@
 *  Box Model Review | [Box Model Review + Floats Lecture Notes]()
 
 ### Week 2
-* Forms
-* Flexbox
-* Responsive Layout
+* Forms | [Lecture Slides](https://drive.google.com/file/d/1F4nDGoI8i88vGweiqmGT4fEwNR6nrLXv/view?usp=sharing)
+* Flexbox | [Lecture Slides](https://drive.google.com/file/d/1rdUMxWDLTnf3W5DqHHNBlW47pCw_5Ix_/view?usp=sharing)
+* Responsive Layout | [Lecture Slides](https://drive.google.com/file/d/1Tbi2-jfACOVD7Y_9zYGH7Rr1BxFKCMzL/view?usp=sharing)
 
 ### Week 3
-* Grid
+* Grid | [Lecture Slides](https://drive.google.com/file/d/13wljaDMPJgRY0ZMqfn6XjF5gyyz-1iXj/view?usp=sharing)
 * Wireframe | [Lecture Slides](https://docs.google.com/presentation/d/19bfh2VtQzCHDakzxIi9O5KRDaGo4rSUQ1BZw5IEg7ig/edit?usp=sharing) | [Figma](https://www.figma.com/files/recent?fuid=788782067563868496)
+
+### Project Week
+* Project Week Kickoff | [Slide Deck](https://drive.google.com/file/d/1-ZYW53Da4k8VftTIbhnR4iffZ2xGFgt1/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/ssWHcrZ4K7L6vs35GmGGlBe_-vyJt2DfwRbK1FUDZUTWweDBl6YFhAt7GDKtABz_.dPbqtGVeV3uC2lt3)
+* Figma Workshop | [Recording](https://us02web.zoom.us/rec/play/FyLXoSgmOlCZ9FubwhLlpNnK_vkaIa_BGilOxqPT2NXn32pLes3Ko6QazaUyn8mvYcJQVDUPOf7mKq8R.TXtqRDNZPpQaSthU?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2Fxs9veunYlBZBfhy2zTOzmG-UfL2-HDZ2lsLjMqFY5EyqRkjkZqJNBuszg_MUwQpD.kqPZ3bfnkPb5JRv7)
