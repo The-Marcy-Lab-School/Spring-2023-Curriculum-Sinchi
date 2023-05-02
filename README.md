@@ -59,6 +59,13 @@
 * Figma Workshop | [Recording](https://us02web.zoom.us/rec/play/FyLXoSgmOlCZ9FubwhLlpNnK_vkaIa_BGilOxqPT2NXn32pLes3Ko6QazaUyn8mvYcJQVDUPOf7mKq8R.TXtqRDNZPpQaSthU?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2Fxs9veunYlBZBfhy2zTOzmG-UfL2-HDZ2lsLjMqFY5EyqRkjkZqJNBuszg_MUwQpD.kqPZ3bfnkPb5JRv7)
 
 ## Unit 2
+
+**Additional Resources**
+
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [Hoisting, Visualized](https://dev.to/lydiahallie/javascript-visualized-hoisting-478h)
+
+
 ### Week 5
 * Intro to Node | [Lecture Slides](https://drive.google.com/file/d/1wj9_NkXn3a6cYJp3LNLDkg1jTCUviGyN/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/LPLCX0YthrwJr8C63A2zYY81O1zS9z8sfe9dNcOFbN2jKiEfZ790QQbIGnzCkUOm.M-KKlgoBGUr55nzY) | [Lab Review](https://us02web.zoom.us/rec/share/XbdZhU5164doYibAukxTK_veqFH4M4l42Fj2YEuO8HOH6cxsu4Z0Abrj77Iarur-.fCJV0Ag1mBjL12Rp)
 * Vars, Funcs, Strs | [Lecture Slides](https://drive.google.com/file/d/17fzaHBnlYZuz7SWkl-AxRDPZKHtflVry/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/EntoJNmo0MaGCg7Fw5XZ5wpEUnpVmep43MwBBdDaszDuNGMn5qlxbND7OLjf5hwI.wrqZqpnX8q2eDpO_)
