@@ -50,3 +50,9 @@
 ### Project Week
 * Project Week Kickoff | [Slide Deck](https://drive.google.com/file/d/1-ZYW53Da4k8VftTIbhnR4iffZ2xGFgt1/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/ssWHcrZ4K7L6vs35GmGGlBe_-vyJt2DfwRbK1FUDZUTWweDBl6YFhAt7GDKtABz_.dPbqtGVeV3uC2lt3)
 * Figma Workshop | [Recording](https://us02web.zoom.us/rec/play/FyLXoSgmOlCZ9FubwhLlpNnK_vkaIa_BGilOxqPT2NXn32pLes3Ko6QazaUyn8mvYcJQVDUPOf7mKq8R.TXtqRDNZPpQaSthU?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2Fxs9veunYlBZBfhy2zTOzmG-UfL2-HDZ2lsLjMqFY5EyqRkjkZqJNBuszg_MUwQpD.kqPZ3bfnkPb5JRv7)
+
+##Unit 2
+### Week 5
+* Intro to Node | [Lecture Slides](https://drive.google.com/file/d/1wj9_NkXn3a6cYJp3LNLDkg1jTCUviGyN/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/LPLCX0YthrwJr8C63A2zYY81O1zS9z8sfe9dNcOFbN2jKiEfZ790QQbIGnzCkUOm.M-KKlgoBGUr55nzY)
+* Vars, Funcs, Strs | [Lecture Slides](https://drive.google.com/file/d/17fzaHBnlYZuz7SWkl-AxRDPZKHtflVry/view?usp=sharing) | [Recording]()
+* Flow control, operators, Math | [Lecture Slides]() | [Recording]()
