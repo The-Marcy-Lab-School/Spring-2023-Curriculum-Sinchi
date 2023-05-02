@@ -18,7 +18,12 @@
 
 **Slides**
 
+## Unit 0 - Command Line, Git, Github
 
+* Intro to Command Line Interfaces | [Slides]() | [Lecture Notes]() 
+* Intro to Git & Github | [Slides]() | [Lecture Notes]() 
+* Collaborative Git | [Slides]() 
+* Review | [Slides]() 
 
 ## Unit 1 - HTML & CSS
 
