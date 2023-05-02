@@ -3,7 +3,7 @@
 **Table of Contents**
 * [Orientation Week](#orientation-week)
 * [Unit 0 - Command Line, Git, Github](#unit-0---command-line-git-github)
-* [Unit 1 - HTML & CSS](#unit-1---html-&-css)
+* [Unit 1 - HTML & CSS](#unit-1---html--css)
 * [Unit 2 - JavaScript Fundamentals](#unit-2)
 
 ## Orientation Week
