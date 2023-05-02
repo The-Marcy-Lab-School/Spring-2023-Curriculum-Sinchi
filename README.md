@@ -61,5 +61,5 @@
 ## Unit 2
 ### Week 5
 * Intro to Node | [Lecture Slides](https://drive.google.com/file/d/1wj9_NkXn3a6cYJp3LNLDkg1jTCUviGyN/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/LPLCX0YthrwJr8C63A2zYY81O1zS9z8sfe9dNcOFbN2jKiEfZ790QQbIGnzCkUOm.M-KKlgoBGUr55nzY)
-* Vars, Funcs, Strs | [Lecture Slides](https://drive.google.com/file/d/17fzaHBnlYZuz7SWkl-AxRDPZKHtflVry/view?usp=sharing) | [Recording]()
+* Vars, Funcs, Strs | [Lecture Slides](https://drive.google.com/file/d/17fzaHBnlYZuz7SWkl-AxRDPZKHtflVry/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/EntoJNmo0MaGCg7Fw5XZ5wpEUnpVmep43MwBBdDaszDuNGMn5qlxbND7OLjf5hwI.wrqZqpnX8q2eDpO_)
 * Flow control, operators, Math | [Lecture Slides]() | [Recording]()
