@@ -72,3 +72,6 @@
 * Flow control, operators, Math | [Lecture Slides](https://drive.google.com/file/d/1IpTZK4oC8pZjtULNZdY42n_iMGXgb2EG/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/WjyZQNm0FwzG9sWmQBPlFdNRmCcqxh2k4jKNncekkFT1mYI0SSBtur9QIux_o2je.2HZqIgkBJRu8AmRV)
 * Review
 * Intro to Problem Solving | [Lecture Slides](https://drive.google.com/file/d/1UFnUfeTmdDXz7GT0xc3M6xJ5gJnSneZD/view?usp=sharing) | [Recording]()
+
+### Week 6
+
