@@ -74,4 +74,4 @@
 * Intro to Problem Solving | [Lecture Slides](https://drive.google.com/file/d/1UFnUfeTmdDXz7GT0xc3M6xJ5gJnSneZD/view?usp=sharing) | [Recording]()
 
 ### Week 6
-
+-For Loops and While Loops | [Lecture Slides](https://drive.google.com/file/d/1-ghDZtCE4dc5O0YUy5Hiy4fbrHxOqFiH/view?usp=sharing) | [Recording]()
