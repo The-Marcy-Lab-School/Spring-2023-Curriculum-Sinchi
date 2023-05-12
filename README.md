@@ -77,4 +77,4 @@
 - For Loops and While Loops | [Lecture Slides](https://drive.google.com/file/d/1-ghDZtCE4dc5O0YUy5Hiy4fbrHxOqFiH/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/9l5wJpMmaMDYaaOEpyhzSQlxofv7XPCShxYOJp5XffD8u438cWncHOAqzqIvWNJ0.zj5S815nkHZ2Tf2B?startTime=1683558349000)
 - Arrays | [Lecture Slides](https://drive.google.com/file/d/1wOpb10nrMctQIF4twTKy-xLovkXTr7M5/view?usp=sharing)
 - Objects | [Lecture Slides](https://drive.google.com/file/d/1bK_K600z9rKNnFIFcYembWOblJINB7eS/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/KqtaIRhaAOu8vKnjwn8khP_GqPPvdrBbyxp0x_hPkGeQP1bYeynDEPqHOWhaUU-N.lhMrmcnSZCTl3zy5)
-- Review | [Code notes]()
+- Review | [Code notes](./unit-2/review/index.js)
