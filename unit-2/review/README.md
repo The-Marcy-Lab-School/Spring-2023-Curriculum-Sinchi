@@ -1,7 +1,7 @@
 # Review
 
 ## Week 1
-- General Review - Friday 5/12 | [Code Notes]()
+- General Review - Friday 5/12 | [Code Notes](./index.js)
 
 ## Week 2
 - Object iterations - Monday 5/15 | [Practice repo](https://github.com/jo-well29/object-iteration-pratice) | [Solution]() | [Recording - in progress]()
