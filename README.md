@@ -65,6 +65,12 @@
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Hoisting, Visualized](https://dev.to/lydiahallie/javascript-visualized-hoisting-478h)
 
+**Unit 2 Assessment Resources**
+
+- [Mike Cronin's Unit 2 Study Guide]()
+- [Strategies for Exam Questions]()
+- [Unit 2 Practice Assessment](https://github.com/The-Marcy-Lab-School/unit-2-practice-assessment/blob/master/README.md)
+
 
 ### Week 5
 * Intro to Node | [Lecture Slides](https://drive.google.com/file/d/1wj9_NkXn3a6cYJp3LNLDkg1jTCUviGyN/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/LPLCX0YthrwJr8C63A2zYY81O1zS9z8sfe9dNcOFbN2jKiEfZ790QQbIGnzCkUOm.M-KKlgoBGUr55nzY) | [Lab Review](https://us02web.zoom.us/rec/share/XbdZhU5164doYibAukxTK_veqFH4M4l42Fj2YEuO8HOH6cxsu4Z0Abrj77Iarur-.fCJV0Ag1mBjL12Rp)
