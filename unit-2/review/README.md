@@ -1,5 +1,9 @@
 # Review
 
+**Resouces**
+
+- [Mike Cronin's Study Guide](./review-resources/mike-cronin-study-guide.md)
+
 ## Week 1
 - General Review - Friday 5/12 | [Code Notes](./index.js)
 
