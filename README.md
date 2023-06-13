@@ -84,3 +84,13 @@
 - Arrays | [Lecture Slides](https://drive.google.com/file/d/1wOpb10nrMctQIF4twTKy-xLovkXTr7M5/view?usp=sharing)
 - Objects | [Lecture Slides](https://drive.google.com/file/d/1bK_K600z9rKNnFIFcYembWOblJINB7eS/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/KqtaIRhaAOu8vKnjwn8khP_GqPPvdrBbyxp0x_hPkGeQP1bYeynDEPqHOWhaUU-N.lhMrmcnSZCTl3zy5)
 - Review | [Code notes](./unit-2/review/index.js)
+
+## Unit 3 - Structured Problem Solving
+
+**Additional Resources**
+
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+
+
+### Week 8
+- Regex | [Lecture Slides](https://drive.google.com/file/d/10hg-RDKAAGm1cpn-dAGpR2n-N2J5kgVw/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/BX3Mu-3--Qdt8CbZ_LbJ_Mw5PnEylPKB28OrDD36Am4S2jtkKlERcrexUTRv7Xtk.aIw5JY_T7sGoX_TE?startTime=1686582277000)
