@@ -17,12 +17,12 @@ const studentsGCA = [
 ### Problem 1
 
 
-Using the simple callback version of `sort()`. Sort the data from ascending order.
+Using the simple callback version of `sort()`. Sort the grade property from ascending order.
 
 ### Problem 2
 
 
-Manually implementing `sort()` method. Sort the data to descending order.
+Manually implementing `sort()` method. Sort the grade property to descending order.
 
 ### Problem 3
 
