@@ -14,13 +14,19 @@ const studentsGCA = [
 ];
 ```
 
-**Problem 1**
+### Problem 1
+
+
 Using the simple callback version of `sort()`. Sort the data from ascending order.
 
-**Problem 2**
+### Problem 2
+
+
 Manually implementing `sort()` method. Sort the data to descending order.
 
-**Problem 3**
+### Problem 3
+
+
 Create a simple calculator program that performs basic arithmetic operations (addition, subtraction, multiplication, division) using callback functions.
 
 - Implement separate functions for each arithmetic operation: add, subtract, multiply, and divide.
