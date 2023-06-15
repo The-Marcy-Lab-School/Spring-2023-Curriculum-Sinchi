@@ -1,4 +1,4 @@
-# Unit 3 - Lesson 1
+# Unit 3 - Lesson 0
 ## Regular Expressions and String Processing
 
 ### Essential Questions
