@@ -1,6 +1,6 @@
 # Curriculum Resource
 
-**[Skip to Current Unit](#unit-3---object-oriented-javaScript)**
+**[Skip to Current Unit](#unit-4---object-oriented-javaScript)**
 
 **Table of Contents**
 * [Orientation Week](#orientation-week)
