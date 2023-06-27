@@ -114,4 +114,4 @@
 - [Classes are great but... use Composition Instead of Inheritance](https://www.youtube.com/watch?v=nnwD5Lwwqdo)
 
 ### Week 10
-- Closures | [Lecture Slides](https://drive.google.com/file/d/1qwh1Pg487vpKoxvK8BPGsicJqMD9eqdH/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/pbxRf1D8FJQzPvHZImhO4U2AhCIzUfSokajFJ-95EOS5KLtqdroW-S12inNExRnw.WPXPZO9GTR2TctDr)
+- Closures | [Lecture Slides](https://drive.google.com/file/d/1qwh1Pg487vpKoxvK8BPGsicJqMD9eqdH/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/pbxRf1D8FJQzPvHZImhO4U2AhCIzUfSokajFJ-95EOS5KLtqdroW-S12inNExRnw.WPXPZO9GTR2TctDr) | [Lab Review]()
