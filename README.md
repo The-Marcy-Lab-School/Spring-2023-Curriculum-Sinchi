@@ -120,4 +120,4 @@
 - Classes | [Lecture Slides](https://drive.google.com/file/d/1FQU4FGJi3qHMUELRrHjt-3o9nmrIh99T/view?usp=drive_link) | [Recording](https://us02web.zoom.us/rec/share/BZBtHX29EmF1rRwpwaivNntt2Oa-F-7bXcr-6zeJYARIGxTWUXgGrE2oqB22s_-q.neliLbJDugMCdZsq?startTime=1688058132000)
 
 ### Week 11 
-- Class Methods and Inheritance | Notes | [Recording](https://us02web.zoom.us/rec/play/8YRd0dk7mfFYuYjFVk6NhB7yz43RpxlpOwrtzOqq6mqlPvwl2sV[…]cgR6vznpL9LnFzkNzdOuBc4Reeh0zVEE4paYNJuFWvCU.6t_gFrrVpjanZ5M5)
+- Class Methods and Inheritance | Notes | [Recording](https://us02web.zoom.us/rec/share/nzK0F3f2CRUiw9gwMNjT7uqUw8aW7EeMk0FrvSEvFdsnZ6O00fL7VkeiwgM4cN9r.NigCcACmsDxAttmV?startTime=1689001542000)
