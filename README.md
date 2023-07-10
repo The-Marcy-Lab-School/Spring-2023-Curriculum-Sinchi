@@ -118,3 +118,6 @@
 - "this" Basics | [Lecture Slides](https://drive.google.com/file/d/18wAA5O00sZZgUy90oLQytX2__RjZ73_f/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/9yx-V90gePfCG_nx3S0o271gX0wUZRRG5B-3v5mUW-PgAvYQ3k9UwZj4WRYRLlnk.4SmTPpSLd8dqvv0z?startTime=1687878526000)
 - Constructors & Prototypes | [Lecture Slides](https://drive.google.com/file/d/1Z7WO5QK936-XOiS8p4203ylEhjPXZch4/view?usp=drive_link) | [Recording](https://us02web.zoom.us/rec/share/btyZSgat4J49i7p8Z67YiaqhSGvZz2oZ5J1CBgXAFbaxdiK6sTMplygGIziPbl_J.jY3MJXSfdj9BKpMN?startTime=1687978910000)
 - Classes | [Lecture Slides](https://drive.google.com/file/d/1FQU4FGJi3qHMUELRrHjt-3o9nmrIh99T/view?usp=drive_link) | [Recording](https://us02web.zoom.us/rec/share/BZBtHX29EmF1rRwpwaivNntt2Oa-F-7bXcr-6zeJYARIGxTWUXgGrE2oqB22s_-q.neliLbJDugMCdZsq?startTime=1688058132000)
+
+### Week 11 
+- Class Methods and Inheritance | Notes | [Recording](https://us02web.zoom.us/rec/play/8YRd0dk7mfFYuYjFVk6NhB7yz43RpxlpOwrtzOqq6mqlPvwl2sV[…]cgR6vznpL9LnFzkNzdOuBc4Reeh0zVEE4paYNJuFWvCU.6t_gFrrVpjanZ5M5)
