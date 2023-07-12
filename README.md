@@ -1,6 +1,6 @@
 # Curriculum Resource
 
-**[Skip to Current Unit](#unit-4---object-oriented-javaScript)**
+**[Skip to Current Unit](#unit-4---object-oriented-javascript)**
 
 **Table of Contents**
 * [Orientation Week](#orientation-week)
@@ -121,3 +121,4 @@
 
 ### Week 11 
 - Class Methods and Inheritance | [Notes](./unit-4/lesson-5-advanced-classes/) | [Recording](https://us02web.zoom.us/rec/share/nzK0F3f2CRUiw9gwMNjT7uqUw8aW7EeMk0FrvSEvFdsnZ6O00fL7VkeiwgM4cN9r.NigCcACmsDxAttmV?startTime=1689001542000)
+- The Weirdness of This | [Notes](./unit-4/lesson-5-weirdness-of-this/) | [Slides](https://docs.google.com/presentation/d/1F1L3UZW0rP5BbekYBz7vUrt_4Gbv4384NSJZoOrjJzs)
