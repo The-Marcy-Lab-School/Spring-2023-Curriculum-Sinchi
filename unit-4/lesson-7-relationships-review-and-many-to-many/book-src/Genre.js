@@ -1,36 +1,40 @@
 const { getId } = require('./utils');
 
 class Genre {
-  static all = [];
+  static #all = [];
+
   constructor(name, BookGenreClass, BookClass) {
     this.name = name;
     this.id = getId();
     this.BookGenreClass = BookGenreClass;
     this.BookClass = BookClass;
 
-    Genre.all.push(this);
+    Genre.#all.push(this);
+  }
+
+  static list() {
+    return [...Genre.#all];
   }
 
   static findBy(genreId) {
-    return Genre.all.find(((genre) => genre.id === genreId));
+    return Genre.#all.find((({ id }) => id === genreId));
   }
 
   books() {
-    return this.BookGenreClass.listByGenre(this.id)
-    .map(bookGenre => bookGenre.book())
+    return this.BookGenreClass.listBooksForGenre(this.id)
   }
 
   addBook(bookId) {
-    return new this.BookGenreClass(bookId, this.id);
+    return new this.BookGenreClass(bookId, this.id, this.BookClass, Genre);
   }
 
   removeGenre(bookId) {
-    this.BookGenreClass.find(bookId, this.id).delete();
+    return this.BookGenreClass.findBy(bookId, this.id).delete();
   }
 
   delete() {
-    const idx = Genre.all.findIndex(genre => genre.id === this.id);
-    Genre.all.splice(idx, 1);
+    const idx = Genre.#all.findIndex(genre => genre.id === this.id);
+    Genre.#all.splice(idx, 1);
 
     this.BookGenreClass.listByGenre(this.id)
       .forEach(bookGenre => bookGenre.delete());

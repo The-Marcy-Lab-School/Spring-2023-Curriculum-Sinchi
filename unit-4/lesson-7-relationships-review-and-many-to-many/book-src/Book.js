@@ -17,12 +17,11 @@ class Book {
   }
 
   static findBy(bookId) {
-    return Book.#all.find(((book) => book.id === bookId));
+    return Book.#all.find((({ id }) => id === bookId));
   }
 
   genres() {
-    return this.BookGenreClass.listByBook(this.id)
-      .map(bookGenre => bookGenre.genre())
+    return this.BookGenreClass.listGenresForBook(this.id)
   }
 
   addGenre(genreId) {
@@ -45,3 +44,4 @@ class Book {
 }
 
 module.exports = Book;
+

@@ -22,6 +22,7 @@ class Teacher {
 
   students() {
     return this.TeacherStudentClass.listByTeacher(this.id)
+      .map((teacherStudent) => teacherStudent.student())
   }
 
   addStudent(studentId) {

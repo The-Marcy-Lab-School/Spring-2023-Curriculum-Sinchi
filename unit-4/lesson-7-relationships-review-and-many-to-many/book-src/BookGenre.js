@@ -22,12 +22,24 @@ class BookGenre {
     ));
   }
 
+  static list() {
+    return [...BookGenre.#all];
+  }
+
   static listByBook(bookId) {
     return BookGenre.#all.filter(bookGenre => bookGenre.bookId === bookId);
   }
 
   static listByGenre(genreId) {
     return BookGenre.#all.filter(bookGenre => bookGenre.genreId === genreId);
+  }
+
+  static listGenresForBook(bookId) {
+    return BookGenre.listByBook(bookId).map((bookGenre) => bookGenre.genre())
+  }
+
+  static listBooksForGenre(genreId) {
+    return BookGenre.listByGenre(genreId).map((bookGenre) => bookGenre.book())
   }
 
   book() {
@@ -49,6 +61,7 @@ class BookGenre {
       })
 
     BookGenre.#all.splice(idx, 1);
+    return true;
   }
 }
 

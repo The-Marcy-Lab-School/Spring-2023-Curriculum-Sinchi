@@ -10,6 +10,8 @@ const ash = new Student('Ash', TeacherStudent, Teacher);
 const sam = new Student('Sam', TeacherStudent, Teacher);
 
 jowel.addStudent(sam.id);
-jowel.createStudnet('tom', 12)
+jowel.addStudent(ash.id);
 
+itzel.addStudent(ash.id);
 console.log(jowel.students());
+console.log('itzel.students():', itzel.students());

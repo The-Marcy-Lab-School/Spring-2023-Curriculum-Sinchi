@@ -37,6 +37,7 @@ class TeacherStudent {
   }
 
   student() {
+    return this.StudentClass.findBy(this.studentId)
   }
 
   delete() {
