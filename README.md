@@ -1,6 +1,6 @@
 # Curriculum Resource
 
-**[Skip to Current Unit](#unit-4---object-oriented-javaScript)**
+**[Skip to Current Unit](#unit-4---object-oriented-javascript)**
 
 **Table of Contents**
 * [Orientation Week](#orientation-week)
@@ -116,4 +116,11 @@
 ### Week 10
 - Closures | [Lecture Slides](https://drive.google.com/file/d/1qwh1Pg487vpKoxvK8BPGsicJqMD9eqdH/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/pbxRf1D8FJQzPvHZImhO4U2AhCIzUfSokajFJ-95EOS5KLtqdroW-S12inNExRnw.WPXPZO9GTR2TctDr) | [Lab Review](https://us02web.zoom.us/rec/share/CpH_5HqHt-1T7LCIp14F09lUlZ_C8YhJB5DH-kXea1M-LFA7f-xZzrTKTjPs56kH.xTXSeICdMqy8J4Qg?startTime=1687806095000)
 - "this" Basics | [Lecture Slides](https://drive.google.com/file/d/18wAA5O00sZZgUy90oLQytX2__RjZ73_f/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/9yx-V90gePfCG_nx3S0o271gX0wUZRRG5B-3v5mUW-PgAvYQ3k9UwZj4WRYRLlnk.4SmTPpSLd8dqvv0z?startTime=1687878526000)
-- Constructors & Prototypes | [Lecture Slides](https://drive.google.com/file/d/1Z7WO5QK936-XOiS8p4203ylEhjPXZch4/view?usp=drive_link) | [Recording]()
+- Constructors & Prototypes | [Lecture Slides](https://drive.google.com/file/d/1Z7WO5QK936-XOiS8p4203ylEhjPXZch4/view?usp=drive_link) | [Recording](https://us02web.zoom.us/rec/share/btyZSgat4J49i7p8Z67YiaqhSGvZz2oZ5J1CBgXAFbaxdiK6sTMplygGIziPbl_J.jY3MJXSfdj9BKpMN?startTime=1687978910000)
+- Classes | [Lecture Slides](https://drive.google.com/file/d/1FQU4FGJi3qHMUELRrHjt-3o9nmrIh99T/view?usp=drive_link) | [Recording](https://us02web.zoom.us/rec/share/BZBtHX29EmF1rRwpwaivNntt2Oa-F-7bXcr-6zeJYARIGxTWUXgGrE2oqB22s_-q.neliLbJDugMCdZsq?startTime=1688058132000)
+
+### Week 11 
+- Class Methods and Inheritance | [Notes](./unit-4/lesson-4-advanced-classes/) | [Recording](https://us02web.zoom.us/rec/share/nzK0F3f2CRUiw9gwMNjT7uqUw8aW7EeMk0FrvSEvFdsnZ6O00fL7VkeiwgM4cN9r.NigCcACmsDxAttmV?startTime=1689001542000)
+- The Weirdness of This | [Notes](./unit-4/lesson-5-weirdness-of-this/) | [Slides](https://docs.google.com/presentation/d/1F1L3UZW0rP5BbekYBz7vUrt_4Gbv4384NSJZoOrjJzs)
+- OOP Relationships: Has Many | [Notes](./unit-4/lesson-6-relationships-has-many/) | [Slides](https://docs.google.com/presentation/d/1IHGu0AR7slfAJI1uCaRL0sxX5MFf6ITwrGUcIgCI5pc/edit) | [Recording](https://drive.google.com/file/d/1DY6OXg0lzbJMm4y3AK0ORiy1yti-iEfw/view?usp=sharing)
+- OOP Relationships: review and Many to Many | [Notes](./unit-4/lesson-7-relationships-review-and-many-to-many/) | [Slides](https://docs.google.com/presentation/d/1IHGu0AR7slfAJI1uCaRL0sxX5MFf6ITwrGUcIgCI5pc/edit) | [Recording](https://drive.google.com/file/d/1BlupzjJD3782CvgB3SQTcA9jaMw1htLi/view?usp=sharing)
