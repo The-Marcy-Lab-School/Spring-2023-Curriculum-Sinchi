@@ -112,6 +112,7 @@
 - [What are Factory Functions?](https://www.javascripttutorial.net/javascript-factory-functions/)
 - [What is Polymorphism?](https://www.youtube.com/watch?v=YkhLw5tYR6c&ab_channel=dcode)
 - [Classes are great but... use Composition Instead of Inheritance](https://www.youtube.com/watch?v=nnwD5Lwwqdo)
+- [Unit 4 Assessment Study Guide](https://github.com/The-Marcy-Lab-School/unit-4-study-guide#polymorphic-methods)
 
 ### Week 10
 - Closures | [Lecture Slides](https://drive.google.com/file/d/1qwh1Pg487vpKoxvK8BPGsicJqMD9eqdH/view?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/pbxRf1D8FJQzPvHZImhO4U2AhCIzUfSokajFJ-95EOS5KLtqdroW-S12inNExRnw.WPXPZO9GTR2TctDr) | [Lab Review](https://us02web.zoom.us/rec/share/CpH_5HqHt-1T7LCIp14F09lUlZ_C8YhJB5DH-kXea1M-LFA7f-xZzrTKTjPs56kH.xTXSeICdMqy8J4Qg?startTime=1687806095000)
