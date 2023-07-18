@@ -128,4 +128,4 @@
 
 ### Week 12
 - UML & Design | [Slides](https://drive.google.com/file/d/1oMJw3ucUmMZd66suTeyTuJl4FwatvuaL/view?usp=drive_link) |  [Notes](./unit-4/lesson-8-uml-design) | [Lecture](https://us02web.zoom.us/rec/share/_q7HnMAmljqBqxWvXq2fQLIonEbUntV2rE6MQZMfAcGIQs_8Okf6kQ4JmQTo51Uz.5gITRbO8WYNYy9F9?startTime=1689606149000)
-- Review (closures, this, factory function, constructors, class basics) | [Slides](https://drive.google.com/file/d/18Hea7yvcG1aEdg-eHud2ury_4jxmvQsI/view?usp=drive_link) | [Notes](./unit-4/review) | [Lecture]()
+- Review (closures, this, factory function, constructors, class basics) | [Slides](https://drive.google.com/file/d/18Hea7yvcG1aEdg-eHud2ury_4jxmvQsI/view?usp=drive_link) | [Notes](./unit-4/review) | [Lecture](https://drive.google.com/file/d/1FGbCfIfvojkq4wR50tlGb1nnit6X_J6X/view?usp=drive_link)
