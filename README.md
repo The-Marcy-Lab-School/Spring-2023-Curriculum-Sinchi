@@ -8,7 +8,7 @@
 * [Unit 1 - HTML & CSS](#unit-1---html--css)
 * [Unit 2 - JavaScript Fundamentals](#unit-2---javascript)
 * [Unit 3 - Structured Problem Solving](#unit-3---structured-problem-solving)
-* [Unit 4 - Structured Problem Solving](#unit-4---object-oriented-javascript)
+* [Unit 4 - Object Oriented JavaScript](#unit-4---object-oriented-javascript)
 
 ## Orientation Week
 
