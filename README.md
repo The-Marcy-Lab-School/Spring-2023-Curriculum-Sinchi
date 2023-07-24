@@ -142,5 +142,5 @@
 - [Eloquent JavaScript - Chapter 14: DOM](https://eloquentjavascript.net/14_dom.html)
 
 ### Week 13
-- Intro to the DOM | [Slides](https://drive.google.com/file/d/1HVZmTxJ61LpskWwjfwSgbv30G9TOb5n8/view?usp=drive_link) | [Lecture](https://us02web.zoom.us/rec/share/OH-jWYW2dCPJ2mK1oRkQEcTvOvBRWlSbGIwYO_nOSlKM9zz8lCwB3-iv6_ueXolV.4p0LqIfvr9zcHit-?startTime=1690211051000) | [Lab Review]()
+- Intro to the DOM | [Slides](https://drive.google.com/file/d/1HVZmTxJ61LpskWwjfwSgbv30G9TOb5n8/view?usp=drive_link) | [Notes](./unit-5/lesson-0-DOM-basics) | [Lecture](https://us02web.zoom.us/rec/share/OH-jWYW2dCPJ2mK1oRkQEcTvOvBRWlSbGIwYO_nOSlKM9zz8lCwB3-iv6_ueXolV.4p0LqIfvr9zcHit-?startTime=1690211051000) | [Lab Review]()
 
