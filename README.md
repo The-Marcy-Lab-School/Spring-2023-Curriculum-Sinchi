@@ -134,7 +134,7 @@
 - Review (Inheritance, Relationships(Belongs to) | [Notes](./unit-4/review-part-2) | [Lecture - Recording](https://us02web.zoom.us/rec/share/gsE_iHGpOQnQAcYvUYtUrHxQWVxz_QvMgXRF--HopIi2dPoZkqnxSjMDdFaLWzZZ.DJmJqbv0skhTVMGQ) | [Lab Review](https://us02web.zoom.us/rec/share/XyQBAUQCydCN0HYRTd6QLi2ZlDicK9hUmOShcveUMEwqxmWjWFtnp2O92o6UuP-u.9pCWGsDkI4h81Wcs)
 
 
-## Unit 5 - DOM (Document Object Model)
+## Unit 5 - Document Object Model
 
 **Additional Resources**
 
