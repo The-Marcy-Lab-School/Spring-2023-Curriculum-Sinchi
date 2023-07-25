@@ -1,6 +1,6 @@
 # Curriculum Resource
 
-**[Skip to Current Unit](#unit-4---object-oriented-javascript)**
+**[Skip to Current Unit](#unit-5---document-object-model)**
 
 **Table of Contents**
 * [Orientation Week](#orientation-week)
@@ -9,6 +9,7 @@
 * [Unit 2 - JavaScript Fundamentals](#unit-2---javascript)
 * [Unit 3 - Structured Problem Solving](#unit-3---structured-problem-solving)
 * [Unit 4 - Object Oriented JavaScript](#unit-4---object-oriented-javascript)
+* [Unit 5 - DOM](#unit-5---document-object-model)
 
 ## Orientation Week
 
@@ -133,9 +134,14 @@
 - Review (Inheritance, Relationships(Belongs to) | [Notes](./unit-4/review-part-2) | [Lecture - Recording](https://us02web.zoom.us/rec/share/gsE_iHGpOQnQAcYvUYtUrHxQWVxz_QvMgXRF--HopIi2dPoZkqnxSjMDdFaLWzZZ.DJmJqbv0skhTVMGQ) | [Lab Review](https://us02web.zoom.us/rec/share/XyQBAUQCydCN0HYRTd6QLi2ZlDicK9hUmOShcveUMEwqxmWjWFtnp2O92o6UuP-u.9pCWGsDkI4h81Wcs)
 
 
-## Unit 5 - DOM (Document Object Model)
+## Unit 5 - Document Object Model
 
 **Additional Resources**
+- [Local setup for Mac](https://github.com/The-Marcy-Lab-School/local-environment-setup-mac)
+- [Local setup for Windows](https://github.com/The-Marcy-Lab-School/local-environment-setup-wsl)
+- [Eloquent JavaScript - Chapter 14: DOM](https://eloquentjavascript.net/14_dom.html)
 
 ### Week 13
+- Intro to the DOM | [Slides](https://drive.google.com/file/d/1HVZmTxJ61LpskWwjfwSgbv30G9TOb5n8/view?usp=drive_link) | [Notes](./unit-5/lesson-0-DOM-basics) | [Lecture](https://us02web.zoom.us/rec/share/OH-jWYW2dCPJ2mK1oRkQEcTvOvBRWlSbGIwYO_nOSlKM9zz8lCwB3-iv6_ueXolV.4p0LqIfvr9zcHit-?startTime=1690211051000) | [Lab Review]()
+- Events | [Slides](https://drive.google.com/file/d/1s--IYO6eDOpJClb5gMEIqpyJuECYrBfE/view?usp=sharing) | [Notes]() | [Lecture]()
 
