@@ -143,5 +143,5 @@
 
 ### Week 13
 - Intro to the DOM | [Slides](https://drive.google.com/file/d/1HVZmTxJ61LpskWwjfwSgbv30G9TOb5n8/view?usp=drive_link) | [Notes](./unit-5/lesson-0-DOM-basics) | [Lecture](https://us02web.zoom.us/rec/share/OH-jWYW2dCPJ2mK1oRkQEcTvOvBRWlSbGIwYO_nOSlKM9zz8lCwB3-iv6_ueXolV.4p0LqIfvr9zcHit-?startTime=1690211051000) | [Lab Review]()
-- Events | [Slides](https://drive.google.com/file/d/1s--IYO6eDOpJClb5gMEIqpyJuECYrBfE/view?usp=sharing) | [Notes]() | [Lecture]()
+- Events | [Slides](https://drive.google.com/file/d/1s--IYO6eDOpJClb5gMEIqpyJuECYrBfE/view?usp=sharing) | [Notes](./unit-5/lesson-1-events) | [Lecture](https://us02web.zoom.us/rec/share/BFv8NOrqVA6UWntshJ92xqAHR494hl_p0YV2zfgOvIpJH-LDT7i7f9Lcy9nv99Zc.ecERHZlHKfzn_vf5)
 
