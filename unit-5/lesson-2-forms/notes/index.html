@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>JS Events</title>
+</head>
+
+<body>
+    <header>
+        <h1>Forms Practice</h1>
+    </header>
+    <main>
+        <div id="forms">
+            <form id="old-way" action="./results-page.html" method="get" aria-labelledby="old-header">
+                <h2 id="old-header">The Old Way</h2>
+                <p>
+                    This form uses <code>action</code> and <code>method</code> property to literally visit a new page.
+                </p>
+                <label for="username">
+                    Username
+                    <input type="text" id="username" name="username" placeholder="Enter your username"
+                        autocomplete="username">
+                </label>
+                <label for="password">
+                    Password
+                    <input type="password" id="password" name="password" placeholder="Enter your password"
+                        autocomplete="current-password">
+                </label>
+
+                <button class="submit">Submit</button>
+            </form>
+
+            <form id="new-way" aria-labelledby="new-header">
+                <h2 id="new-header">The New Way</h2>
+                <p> We'll use JavaScript to prevent the default behavior of the form. </p>
+
+                <label>
+                    Current mood
+                    <input type="text" id="current-mood" name="currentMood" placeholder="How are you feeling?">
+                </label>
+
+                <label for="is-hungry">
+                    <input type="checkbox" id="is-hungry" name="isHungry">
+                    Are you hungry?
+                </label>
+
+                <fieldset>
+                    <legend>Choose your favorite color</legend>
+                    <label>
+                        <input type="radio" name="color" value="red" checked>
+                        Red
+                    </label>
+
+                    <label>
+                        <input type="radio" name="color" value="blue">
+                        Blue
+                    </label>
+
+                    <label>
+                        <input type="radio" name="color" value="green">
+                        Green
+                    </label>
+                </fieldset>
+
+                <label>
+                    Choose your favorite fruit
+                    <select name="favoriteFruit">
+                        <option value="apple">Apple</option>
+                        <option value="banana">Banana</option>
+                        <option value="orange">Orange</option>
+                    </select>
+                </label>
+
+                <button type="button">Reset Form</button>
+                <button type="button" id="something">Do Something</button>
+                <button class="submit">Submit</button>
+            </form>
+        </div>
+    </main>
+    <script src="./script.js"></script>
+</body>
+
+</html>
