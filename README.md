@@ -10,6 +10,7 @@
 * [Unit 3 - Structured Problem Solving](#unit-3---structured-problem-solving)
 * [Unit 4 - Object Oriented JavaScript](#unit-4---object-oriented-javascript)
 * [Unit 5 - DOM](#unit-5---document-object-model)
+* [Unit 6 - Async JS and Fetch](#unit-6---async-js)
 
 ## Orientation Week
 
@@ -151,3 +152,7 @@
   - Review | [Notes]() | [Lecture]()
   - Project Week Kick-Off | [Slides](https://drive.google.com/file/d/1fTRuSoCpr1XwuYTGP6NnvZqxhzuTzx8D/view?usp=drive_link)
 
+## Unit 6 - Async JS
+
+### Week 15
+- Intro to Promises | [Slides](https://docs.google.com/presentation/d/1NEOEy06oh3OgsrFtgDBJerLzL8nJKbqFrHM3vnyh5Lw/edit#slide=id.g241f7cfd64c_0_9)| [Notes](./unit-6)
