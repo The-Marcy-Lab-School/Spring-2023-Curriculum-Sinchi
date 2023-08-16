@@ -155,4 +155,5 @@
 ## Unit 6 - Async JS
 
 ### Week 15
-- Intro to Promises | [Slides](https://docs.google.com/presentation/d/1NEOEy06oh3OgsrFtgDBJerLzL8nJKbqFrHM3vnyh5Lw/edit#slide=id.g241f7cfd64c_0_9) | [Recording](https://drive.google.com/file/d/1bdauXCHOB_kSq0eWm2moZ7HrPwHNVM0i/view?usp=sharing) | [Notes](./unit-6) | 
+- Intro to Promises | [Slides](https://docs.google.com/presentation/d/1NEOEy06oh3OgsrFtgDBJerLzL8nJKbqFrHM3vnyh5Lw/edit#slide=id.g241f7cfd64c_0_9) | [Recording](https://drive.google.com/file/d/1bdauXCHOB_kSq0eWm2moZ7HrPwHNVM0i/view?usp=sharing) | [Notes](./unit-6) |
+- Intro to Fetch | [Slides](https://docs.google.com/presentation/d/1v5wj7I83x4v8qYHcD8sugEa7PMR5x2s8Ww7nySq-PI4/edit?usp=sharing) | [Recording]() | [Notes](./unit-6/lesson-1-fetch-basics)
