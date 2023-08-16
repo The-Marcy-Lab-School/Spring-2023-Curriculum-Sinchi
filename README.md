@@ -1,6 +1,6 @@
 # Curriculum Resource
 
-**[Skip to Current Unit](#unit-5---document-object-model)**
+**[Skip to Current Unit](#unit-6---async-js)**
 
 **Table of Contents**
 * [Orientation Week](#orientation-week)
@@ -147,10 +147,10 @@
 - Events | [Slides](https://drive.google.com/file/d/1s--IYO6eDOpJClb5gMEIqpyJuECYrBfE/view?usp=sharing) | [Notes](./unit-5/lesson-1-events) | [Lecture](https://us02web.zoom.us/rec/share/BFv8NOrqVA6UWntshJ92xqAHR494hl_p0YV2zfgOvIpJH-LDT7i7f9Lcy9nv99Zc.ecERHZlHKfzn_vf5)
 - Forms | [Slides](https://drive.google.com/file/d/1k_lNpTJRPPNKaIsQEu8cKJf232Cn0yWZ/view?usp=sharing) | [Notes](./unit-5/lesson-2-forms) | [Lecture](https://us02web.zoom.us/rec/share/-qvb0wigLwB80vCUMKI7HjtAUkaiaOQv08NZHT_oam3e04jv0UGRrYUYYvpld6IP.8hThn1Zix8Kv4HUE)
 
-  ### Week 14
-  - Reteach | [Notes]() | [Lecture]()
-  - Review | [Notes]() | [Lecture]()
-  - Project Week Kick-Off | [Slides](https://drive.google.com/file/d/1fTRuSoCpr1XwuYTGP6NnvZqxhzuTzx8D/view?usp=drive_link)
+### Week 14
+- Reteach | [Notes]() | [Lecture]()
+- Review | [Notes]() | [Lecture]()
+- Project Week Kick-Off | [Slides](https://drive.google.com/file/d/1fTRuSoCpr1XwuYTGP6NnvZqxhzuTzx8D/view?usp=drive_link)
 
 ## Unit 6 - Async JS
 
