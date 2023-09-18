@@ -158,3 +158,11 @@
 - Intro to Promises | [Slides](https://docs.google.com/presentation/d/1NEOEy06oh3OgsrFtgDBJerLzL8nJKbqFrHM3vnyh5Lw/edit#slide=id.g241f7cfd64c_0_9) | [Recording](https://drive.google.com/file/d/1bdauXCHOB_kSq0eWm2moZ7HrPwHNVM0i/view?usp=sharing) | [Notes](./unit-6) |
 - Intro to Fetch | [Slides](https://drive.google.com/file/d/1aN9ck-ppYf9VWRrmWCKiWa-JOnPJM8DN/view?usp=drive_link) | [Recording](https://us02web.zoom.us/rec/share/dtSyJDPN6yFBF_oRSKk5U6BH77EBvQ-P5Fuabg4BSG8FCQfWoqX0wz5SzpHLRGb9.8hpK7tNchwg_rY-T?startTime=1692119202000) | [Notes](./unit-6/lesson-1-fetch-basics)
 - Fetch Applied | [Recording](https://us02web.zoom.us/rec/share/ijCFzFHJrqpJMzoug52pikxAvXIiaMLS1Wkf-9ZiJaYh_hpHXti8c_q6UKfiOtl3.GG27uS7j7rAZMBH-) | [Notes](./unit-6/lesson-2-fetch-applied)
+
+## Unit X - Data Structures and Algorithms 
+- Big O | [Slides](https://docs.google.com/presentation/d/1Svy1FkzF9hKIciIiCv0u9IHF92c24myzqbGhC9FZ1mw/edit#slide=id.g27a4152967d_0_0) 
+- Hashmaps | [Slides](https://docs.google.com/presentation/d/1-SYbpR22OEkKKZ6Ts0umuTFit49-XUh-ZX8p6StNUoY/edit#slide=id.g27a41529680_0_0) | [Recording](https://us02web.zoom.us/rec/share/rWnI6YxOZpUQKB1PWe4DqFQ6KRQXq-fo3l7m6wHx0ElWECssGEHB_GrdhLmokSmX.qmB0r_vr0vooFDmG)
+- Stacks & Queues | [Slides](https://docs.google.com/presentation/d/1FxAEKXNTSAoxNaEMSAp71hIP4P0q8K1CVlB9hD2PC84/edit#slide=id.g27a41529680_0_0) 
+- Recursion | [Slides](https://docs.google.com/presentation/d/1kChIapItwVOZKTiMFVyXFjhocLdEW-WBcCcVrZ714IA/edit#slide=id.g27a41529680_0_0) | [Recording](https://us02web.zoom.us/rec/share/fDEPb7e8B4bfF1_qkh45zSWaBG3fPRDVLJaOc4wugp8fwJd4NAdfcdMuK7OTB7yA.yEQL6wEJbX5ftAds)
+- LinkedLists | [Slides](https://docs.google.com/presentation/d/1u92Dy8PoiI4HUqYY7K13bqaPQz1nmWlM-5-m7v2YF9E/edit#slide=id.g27a41529680_0_0) | [Recording](https://us02web.zoom.us/rec/share/vBA6CK8fS_U1WfxufIUt9xSrMnwrmH29vq-mVhIRfF4KjlPyi-aLbLgJe0-1cWzJ.blOxHXA9HSIwcgE2)
+- Trees | Slides
