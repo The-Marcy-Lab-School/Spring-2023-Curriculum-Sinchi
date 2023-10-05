@@ -166,3 +166,8 @@
 - Recursion | [Slides](https://docs.google.com/presentation/d/1kChIapItwVOZKTiMFVyXFjhocLdEW-WBcCcVrZ714IA/edit#slide=id.g27a41529680_0_0) | [Recording](https://us02web.zoom.us/rec/share/fDEPb7e8B4bfF1_qkh45zSWaBG3fPRDVLJaOc4wugp8fwJd4NAdfcdMuK7OTB7yA.yEQL6wEJbX5ftAds)
 - LinkedLists | [Slides](https://docs.google.com/presentation/d/1u92Dy8PoiI4HUqYY7K13bqaPQz1nmWlM-5-m7v2YF9E/edit#slide=id.g27a41529680_0_0) | [Recording](https://us02web.zoom.us/rec/share/vBA6CK8fS_U1WfxufIUt9xSrMnwrmH29vq-mVhIRfF4KjlPyi-aLbLgJe0-1cWzJ.blOxHXA9HSIwcgE2)
 - Trees | [Slides](https://docs.google.com/presentation/d/1iXYzNs6o1b3f5K3EcnHOEhGT6VxxD9hCp_E0h3Z3D0I/edit#slide=id.g280a9b50637_0_22)
+
+
+## Unit 7
+MORE NOTES TO COME, sorry, didn't remember to update this 
+(SQL/Knex migrations/seeds/models review)[https://github.com/MostlyFocusedMike/knex-lecture]
