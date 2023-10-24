@@ -1,0 +1,45 @@
+img {
+  width: 600px;
+}
+
+#subtitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.fancy {
+  font-family: cursive;
+  font-style: italic;
+  color: purple;
+}
+
+#example p {
+  font-family: monospace;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}

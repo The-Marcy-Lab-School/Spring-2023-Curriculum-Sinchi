@@ -1,16 +1,38 @@
 # Curriculum Resource
 
-**[Skip to Current Unit](#unit-6---async-js)**
+- [Curriculum Resource](#curriculum-resource)
+  - [Orientation Week](#orientation-week)
+  - [Unit 0 - Command Line, Git, Github](#unit-0---command-line-git-github)
+  - [Unit 1 - HTML \& CSS](#unit-1---html--css)
+    - [Week 1](#week-1)
+    - [Week 2](#week-2)
+    - [Week 3](#week-3)
+    - [Project Week](#project-week)
+  - [Unit 2 - JavaScript](#unit-2---javascript)
+    - [Week 5](#week-5)
+    - [Week 6](#week-6)
+  - [Unit 3 - Structured Problem Solving](#unit-3---structured-problem-solving)
+    - [Week 8](#week-8)
+    - [Week 9](#week-9)
+  - [Unit 4 - Object-Oriented JavaScript](#unit-4---object-oriented-javascript)
+    - [Week 10](#week-10)
+    - [Week 11](#week-11)
+    - [Week 12](#week-12)
+  - [Unit 5 - Document Object Model](#unit-5---document-object-model)
+    - [Week 13](#week-13)
+    - [Week 14](#week-14)
+  - [Unit 6 - Async JS](#unit-6---async-js)
+    - [Week 15](#week-15)
+  - [Unit X - Data Structures and Algorithms](#unit-x---data-structures-and-algorithms)
+  - [Unit 7](#unit-7)
+  - [Review Section](#review-section)
+    - [Intro To HTML](#intro-to-html)
+    - [Intro to CSS](#intro-to-css)
+    - [Intro to DOM Manipulation](#intro-to-dom-manipulation)
+    - [Intro to Events](#intro-to-events)
 
-**Table of Contents**
-* [Orientation Week](#orientation-week)
-* [Unit 0 - Command Line, Git, Github](#unit-0---command-line-git-github)
-* [Unit 1 - HTML & CSS](#unit-1---html--css)
-* [Unit 2 - JavaScript Fundamentals](#unit-2---javascript)
-* [Unit 3 - Structured Problem Solving](#unit-3---structured-problem-solving)
-* [Unit 4 - Object Oriented JavaScript](#unit-4---object-oriented-javascript)
-* [Unit 5 - DOM](#unit-5---document-object-model)
-* [Unit 6 - Async JS and Fetch](#unit-6---async-js)
+
+[Skip to Current Unit](#review-section)
 
 ## Orientation Week
 
@@ -28,10 +50,10 @@
 
 ## Unit 0 - Command Line, Git, Github
 
-* Intro to Command Line Interfaces | [Slides]() | [Lecture Notes]() 
-* Intro to Git & Github | [Slides]() | [Lecture Notes]() 
-* Collaborative Git | [Slides]() 
-* Review | [Slides]() 
+* Intro to Command Line Interfaces | [Slides]() | [Lecture Notes]()
+* Intro to Git & Github | [Slides]() | [Lecture Notes]()
+* Collaborative Git | [Slides]()
+* Review | [Slides]()
 
 ## Unit 1 - HTML & CSS
 
@@ -47,7 +69,7 @@
 * Mozilla Tips for [Organizing CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing) and [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
 
 ### Week 1
-*  HTML Semantics & CSS | [Intro Slides]() | [Lecture Notes]() | 
+*  HTML Semantics & CSS | [Intro Slides]() | [Lecture Notes]() |
 *  Box Model Layout | [Lecture Notes]() | [Lecture Recording](https://us02web.zoom.us/rec/share/NdesESqYDHsjXxjN4X3YHQRDTTG5NpAeeF6UgQN0S9I6HxZLe2KDpU24lTgYjV8d.xAbAlQbBr0BneFUF?startTime=1680707163000)
 *  Box Model Review | [Box Model Review + Floats Lecture Notes]()
 
@@ -123,7 +145,7 @@
 - Constructors & Prototypes | [Lecture Slides](https://drive.google.com/file/d/1Z7WO5QK936-XOiS8p4203ylEhjPXZch4/view?usp=drive_link) | [Recording](https://us02web.zoom.us/rec/share/btyZSgat4J49i7p8Z67YiaqhSGvZz2oZ5J1CBgXAFbaxdiK6sTMplygGIziPbl_J.jY3MJXSfdj9BKpMN?startTime=1687978910000)
 - Classes | [Lecture Slides](https://drive.google.com/file/d/1FQU4FGJi3qHMUELRrHjt-3o9nmrIh99T/view?usp=drive_link) | [Recording](https://us02web.zoom.us/rec/share/BZBtHX29EmF1rRwpwaivNntt2Oa-F-7bXcr-6zeJYARIGxTWUXgGrE2oqB22s_-q.neliLbJDugMCdZsq?startTime=1688058132000)
 
-### Week 11 
+### Week 11
 - Class Methods and Inheritance | [Notes](./unit-4/lesson-4-advanced-classes/) | [Recording](https://us02web.zoom.us/rec/share/nzK0F3f2CRUiw9gwMNjT7uqUw8aW7EeMk0FrvSEvFdsnZ6O00fL7VkeiwgM4cN9r.NigCcACmsDxAttmV?startTime=1689001542000)
 - The Weirdness of This | [Notes](./unit-4/lesson-5-weirdness-of-this/) | [Slides](https://docs.google.com/presentation/d/1F1L3UZW0rP5BbekYBz7vUrt_4Gbv4384NSJZoOrjJzs)
 - OOP Relationships: Has Many | [Notes](./unit-4/lesson-6-relationships-has-many/) | [Slides](https://docs.google.com/presentation/d/1IHGu0AR7slfAJI1uCaRL0sxX5MFf6ITwrGUcIgCI5pc/edit) | [Recording](https://drive.google.com/file/d/1DY6OXg0lzbJMm4y3AK0ORiy1yti-iEfw/view?usp=sharing)
@@ -159,15 +181,30 @@
 - Intro to Fetch | [Slides](https://drive.google.com/file/d/1aN9ck-ppYf9VWRrmWCKiWa-JOnPJM8DN/view?usp=drive_link) | [Recording](https://us02web.zoom.us/rec/share/dtSyJDPN6yFBF_oRSKk5U6BH77EBvQ-P5Fuabg4BSG8FCQfWoqX0wz5SzpHLRGb9.8hpK7tNchwg_rY-T?startTime=1692119202000) | [Notes](./unit-6/lesson-1-fetch-basics)
 - Fetch Applied | [Recording](https://us02web.zoom.us/rec/share/ijCFzFHJrqpJMzoug52pikxAvXIiaMLS1Wkf-9ZiJaYh_hpHXti8c_q6UKfiOtl3.GG27uS7j7rAZMBH-) | [Notes](./unit-6/lesson-2-fetch-applied)
 
-## Unit X - Data Structures and Algorithms 
-- Big O | [Slides](https://docs.google.com/presentation/d/1Svy1FkzF9hKIciIiCv0u9IHF92c24myzqbGhC9FZ1mw/edit#slide=id.g27a4152967d_0_0) 
+## Unit X - Data Structures and Algorithms
+- Big O | [Slides](https://docs.google.com/presentation/d/1Svy1FkzF9hKIciIiCv0u9IHF92c24myzqbGhC9FZ1mw/edit#slide=id.g27a4152967d_0_0)
 - Hashmaps | [Slides](https://docs.google.com/presentation/d/1-SYbpR22OEkKKZ6Ts0umuTFit49-XUh-ZX8p6StNUoY/edit#slide=id.g27a41529680_0_0) | [Recording](https://us02web.zoom.us/rec/share/rWnI6YxOZpUQKB1PWe4DqFQ6KRQXq-fo3l7m6wHx0ElWECssGEHB_GrdhLmokSmX.qmB0r_vr0vooFDmG)
-- Stacks & Queues | [Slides](https://docs.google.com/presentation/d/1FxAEKXNTSAoxNaEMSAp71hIP4P0q8K1CVlB9hD2PC84/edit#slide=id.g27a41529680_0_0) 
+- Stacks & Queues | [Slides](https://docs.google.com/presentation/d/1FxAEKXNTSAoxNaEMSAp71hIP4P0q8K1CVlB9hD2PC84/edit#slide=id.g27a41529680_0_0)
 - Recursion | [Slides](https://docs.google.com/presentation/d/1kChIapItwVOZKTiMFVyXFjhocLdEW-WBcCcVrZ714IA/edit#slide=id.g27a41529680_0_0) | [Recording](https://us02web.zoom.us/rec/share/fDEPb7e8B4bfF1_qkh45zSWaBG3fPRDVLJaOc4wugp8fwJd4NAdfcdMuK7OTB7yA.yEQL6wEJbX5ftAds)
 - LinkedLists | [Slides](https://docs.google.com/presentation/d/1u92Dy8PoiI4HUqYY7K13bqaPQz1nmWlM-5-m7v2YF9E/edit#slide=id.g27a41529680_0_0) | [Recording](https://us02web.zoom.us/rec/share/vBA6CK8fS_U1WfxufIUt9xSrMnwrmH29vq-mVhIRfF4KjlPyi-aLbLgJe0-1cWzJ.blOxHXA9HSIwcgE2)
 - Trees | [Slides](https://docs.google.com/presentation/d/1iXYzNs6o1b3f5K3EcnHOEhGT6VxxD9hCp_E0h3Z3D0I/edit#slide=id.g280a9b50637_0_22)
 
 
 ## Unit 7
-MORE NOTES TO COME, sorry, didn't remember to update this 
+MORE NOTES TO COME, sorry, didn't remember to update this
 (SQL/Knex migrations/seeds/models review)[https://github.com/MostlyFocusedMike/knex-lecture]
+
+## Review Section
+We're going to cover some of the material again to make sure everything is clear! Instead of matching it up to the existing units, we're going to add all the lectures here in one place.
+
+### Intro To HTML
+[Lecture Code](./review-section//2-0-0-lecture-code_intro-to-html/README.md)
+
+### Intro to CSS
+[Lecture Code](./review-section/2-0-1-lecture-code_intro-to-css/README.md)
+
+### Intro to DOM Manipulation
+[Lecture Code](./review-section/2-2-0-lecture-code_intro-to-dom/lecture/index.js)
+
+### Intro to Events
+[Lecture Code](./review-section/2-2-1-lecture-code_intro-to-events/README.md)
