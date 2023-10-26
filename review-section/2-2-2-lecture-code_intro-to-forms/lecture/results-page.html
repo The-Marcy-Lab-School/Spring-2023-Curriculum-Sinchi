@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Form Results</title>
+</head>
+<body>
+  <header>
+    <h1>Results from the form</h1>
+  </header>
+  <main>
+    <p class="bold" id="results"></p>
+    <a class="bold" href="./original-way.html">Back to form</a>
+  </main>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const { username, password } = Object.fromEntries(params.entries());
+
+    document.querySelector('#results')
+      .textContent = `Username: ${username}, Password: ${password}`;
+  </script>
+</body>
+</html>

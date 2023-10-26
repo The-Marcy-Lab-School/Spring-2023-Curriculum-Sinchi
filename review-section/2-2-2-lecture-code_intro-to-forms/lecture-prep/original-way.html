@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Original Forms</title>
+</head>
+<body>
+  <header>
+    <h1>Forms Practice - Original Forms</h1>
+    <nav>
+      <a href="./">Modern Forms</a>
+    </nav>
+  </header>
+  <main>
+    <form id="old-way" action="./results-page.html" method="get" aria-labelledby="old-header">
+      <h2 id="old-header">The Old Way</h2>
+      <p>
+        This form uses <code>action</code> and <code>method</code> property to literally visit a new page.
+      </p>
+      <label for="username">
+        Username
+        <input type="text" id="username" name="username" placeholder="Enter your username" autocomplete="username">
+      </label>
+      <label for="password">
+        Password
+        <input type="password" id="password" name="password" placeholder="Enter your password" autocomplete="current-password">
+      </label>
+
+      <button class="submit">Submit</button>
+    </form>
+  </main>
+</body>
+</html>

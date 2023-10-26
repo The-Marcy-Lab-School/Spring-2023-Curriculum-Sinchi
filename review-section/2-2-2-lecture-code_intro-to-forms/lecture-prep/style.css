@@ -1,0 +1,165 @@
+:root {
+  --white: #FFFCF7;
+  --black: #261F1D;
+  --gray: #E1E3E0;
+  --dark-gray: #B3BBB0;
+  --blue: #2F5A8B;
+  --yellow: #EEBC32;
+  --green: #327A5F;
+  --red: #C92929
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--dark-gray);
+}
+
+body, h1, h2 {
+  margin: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--black);
+  border-bottom: 0.3rem solid var(--green);
+  color: var(--white);
+  padding: 1rem;
+  height: 2rem;
+  margin: 0 0 1rem;
+}
+
+nav a {
+  color: white;
+}
+
+main {
+  padding: 1rem;
+}
+
+code {
+  font-weight: normal;
+  color: var(--red);
+}
+
+button {
+  background-color: var(--white);
+  border: 0.15rem solid var(--black);
+  box-shadow: 0.3rem 0.3rem 0 var(--black);
+  color: var(--black);
+  margin: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+button:active {
+  border: 0.15rem solid var(--yellow);
+  transform: translate(2px, 2px);
+  box-shadow: 0.1rem 0.1rem 0 var(--black);
+}
+
+button.submit {
+  background-color: var(--green);
+  color: var(--white);
+  font-weight: bold;
+  width: 90%;
+  margin: 1rem auto;
+  display: block;
+}
+
+button[type="reset"] {
+  background-color: var(--red);
+  color: var(--white);
+  font-weight: bold;
+}
+
+form {
+  border: 0.3rem solid var(--black);
+  background-color: var(--gray);
+  color: var(--black);
+  padding: 1rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+  width: 19rem;
+  position:relative;
+  margin: 1rem auto;
+}
+
+form:after {
+  content:'';
+  position: absolute;
+  background-color: var(--green);
+  border: 0.2rem solid var(--black);
+  top: 0.3rem;
+  left: 0.1rem;
+  right: -0.7rem;
+  bottom: -0.7rem;
+  z-index:-1;
+}
+
+form:before {
+  content:'';
+  position: absolute;
+  background-color: var(--gray);
+  border: 0.2rem solid var(--black);
+  top: 0.8rem;
+  right: -1.05rem;
+  left: 0.5rem;
+  bottom: -1.1rem;
+  z-index:-1;
+}
+
+label {
+  display: block;
+  margin: 1rem 0rem;
+}
+
+fieldset label {
+  display: inline;
+  font-weight: normal;
+}
+
+fieldset {
+  border: 0.1rem solid var(--black);
+  border-radius: 0.8rem;
+  background-color: var(--gray);
+  color: var(--black);
+  margin: 1rem auto;
+  padding: 0.1rem 0.5rem 0.5rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+input[type="checkbox"], input[type="radio"] {
+  accent-color: var(--green);
+}
+
+input[type="text"], input[type="password"], select {
+  border: 0.2rem solid var(--black);
+  border-radius: 0.8rem;
+  background-color: var(--white);
+  color: var(--black);
+  margin: 0.2rem 0rem;
+  padding: 0.25rem 0.5rem;
+  font-size: 1.1rem;
+  font-weight: normal;
+}
+
+input[type="text"], input[type="password"] {
+  width: 70%;
+}
+
+form#old-way .submit {
+  background-color: var(--yellow);
+  color: var(--black);
+}
+
+form#old-way:after {
+  background-color: var(--yellow);
+}
+
+.bold {
+  font-weight: bold;
+}

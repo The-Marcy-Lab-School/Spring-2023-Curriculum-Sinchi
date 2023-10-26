@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Modern Forms</title>
+</head>
+<body>
+  <header>
+    <h1>Forms Practice - Modern Forms</h1>
+    <nav>
+      <a href="./original-way.html">Original Forms</a>
+    </nav>
+  </header>
+  <main>
+    <form id="new-way">
+      <h2 id="new-header">The New Way</h2>
+      <p> We'll use JavaScript to prevent the default behavior of the form. </p>
+
+      <label>
+        Current mood
+        <input type="text" id="current-mood" name="currentMood" placeholder="How are you feeling?">
+      </label>
+      <!-- Here's an example using a `for` and `id` property -->
+      <!-- <label for="current-mood">Current mood</label> -->
+      <!-- <input type="text" id="current-mood" name="currentMood" placeholder="How are you feeling?"> -->
+
+      <label for="is-hungry">
+        <input type="checkbox" id="is-hungry" name="isHungry">
+        Are you hungry?
+      </label>
+
+      <fieldset>
+        <legend>Choose your favorite color</legend>
+        <label>
+          <input type="radio" name="color" value="red" checked>
+          Red
+        </label>
+
+        <label>
+          <input type="radio" name="color" value="blue">
+          Blue
+        </label>
+
+        <label>
+          <input type="radio" name="color" value="green">
+          Green
+        </label>
+      </fieldset>
+
+      <label>
+        Choose your favorite fruit
+        <select name="favoriteFruit">
+          <option value="apple">Apple</option>
+          <option value="banana">Banana</option>
+          <option value="orange">Orange</option>
+        </select>
+      </label>
+
+      <button type="reset">Reset Form</button>
+      <button type="button" id="something">Do Something</button>
+      <button class="submit">Submit</button>
+    </form>
+  </main>
+  <script src="./index.js"></script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+:root {
+  --white: #FFFCF7;
+  --black: #261F1D;
+  --gray: #E1E3E0;
+  --blue: #2F5A8B;
+  --yellow: #EEBC32;
+  --green: #327A5F;
+}
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--gray);
+}
+
+div {
+  border: 0.1rem solid var(--black);
+}
+
+#mouse-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 10rem;
+  color: var(--yellow);
+  background-color: var(--black);
+  font-size: 2rem;
+}
+
+#middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 10rem;
+  height: 10rem;
+}
+
+#outer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20rem;
+  height: 20rem;
+}
+
+button {
+  background-color: var(--white);
+  border: 2px solid var(--black);
+  box-shadow: 0.3rem 0.3rem 0 var(--black);
+  color: var(--black);
+  margin: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+button:active {
+  border: 2px solid var(--yellow);
+  transform: translate(2px, 2px);
+  box-shadow: 0.1rem 0.1rem 0 var(--black);
+}
+
+div#delegation {
+  padding-right: 0.2rem;
+  width: fit-content;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+}
+
+.grid-item:nth-child(1) {
+  grid-column: 2;
+}
+
+.middle {
+  grid-row: 2;
+}
+
+.grid-item:last-child {
+  grid-row: 3;
+  grid-column: 2;
+}

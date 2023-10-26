@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>JS Events</title>
+</head>
+<body>
+  <main>
+    <h1>Events practice!</h1>
+
+    <h2>Event listeners</h2>
+    <button id="click-button">Add a click listener to me!</button>
+    <div id="mouse-div">Add a mouseover listener to me!</div>
+
+    <!-- Weird, no one does it this way in vanilla HTML/JS  -->
+    <button>Inline function example</button>
+    <!-- <button onclick="eventHandler(event)">Inline function example</button> -->
+
+    <h2>Event Propagation with 3 event listeners</h2>
+    <div id="outer">
+      <div id="middle">
+        <button id="inner">Click me!</button>
+      </div>
+    </div>
+
+    <h2>Event Delegation with 1 event listener</h2>
+    <div id="delegation">
+      <button class="grid-item">Up</button>
+      <button class="grid-item middle">Left</button>
+      <button class="grid-item middle main">Main</button>
+      <button class="grid-item middle">Right</button>
+      <button class="grid-item">Down</button>
+    </div>
+
+    <button id="remove">Remove event listener</button>
+  </main>
+  <script src="./index.js"></script>
+</body>
+</html>

@@ -30,6 +30,8 @@
     - [Intro to CSS](#intro-to-css)
     - [Intro to DOM Manipulation](#intro-to-dom-manipulation)
     - [Intro to Events](#intro-to-events)
+  - [Intro to Forms](#intro-to-forms)
+  - [Intro to A11y](#intro-to-a11y)
 
 
 [Skip to Current Unit](#review-section)
@@ -208,3 +210,9 @@ We're going to cover some of the material again to make sure everything is clear
 
 ### Intro to Events
 [Lecture Code](./review-section/2-2-1-lecture-code_intro-to-events/README.md)
+
+## Intro to Forms
+[Lecture Code](./review-section/2-2-2-lecture-code_intro-to-forms/README.md)
+
+## Intro to A11y
+[Lecture Code](./review-section/2-0-3-lecture-code_intro-to-a11y/README.md)
