@@ -32,6 +32,8 @@
     - [Intro to Events](#intro-to-events)
     - [Intro to Forms](#intro-to-forms)
     - [Intro to A11y](#intro-to-a11y)
+    - [Loading JS Into Our Page and Vite](#loading-js-into-our-page-and-vite)
+    - [Intro to localStorage](#intro-to-localstorage)
 
 
 [Skip to Current Unit](#review-section)
@@ -216,3 +218,9 @@ We're going to cover some of the material again to make sure everything is clear
 
 ### Intro to A11y
 [Lecture Code](./review-section/2-0-3-lecture-code_intro-to-a11y/README.md)
+
+### Loading JS Into Our Page and Vite
+[Lecture video](https://www.youtube.com/watch?v=6ELWzA3WV6w,)
+
+### Intro to localStorage
+[Lecture Code](./review-section/2-3-1-lecture-code_intro-to-localStorage/data-store.js)
