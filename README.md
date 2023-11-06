@@ -34,6 +34,7 @@
     - [Intro to A11y](#intro-to-a11y)
     - [Loading JS Into Our Page and Vite](#loading-js-into-our-page-and-vite)
     - [Intro to localStorage](#intro-to-localstorage)
+  - [Promise Fundamentals](#promise-fundamentals)
 
 
 [Skip to Current Unit](#review-section)
@@ -224,3 +225,7 @@ We're going to cover some of the material again to make sure everything is clear
 
 ### Intro to localStorage
 [Lecture Code](./review-section/2-3-1-lecture-code_intro-to-localStorage/data-store.js)
+
+## Promise Fundamentals
+[Lecture video](https://youtu.be/TjhbHqkGeow)
+And remember, all the code is in the unit-6 folder here!
