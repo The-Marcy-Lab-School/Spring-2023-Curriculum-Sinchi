@@ -35,6 +35,7 @@
     - [Loading JS Into Our Page and Vite](#loading-js-into-our-page-and-vite)
     - [Intro to localStorage](#intro-to-localstorage)
   - [Promise Fundamentals](#promise-fundamentals)
+  - [async await review lecture](#async-await-review-lecture)
 
 
 [Skip to Current Unit](#review-section)
@@ -229,3 +230,7 @@ We're going to cover some of the material again to make sure everything is clear
 ## Promise Fundamentals
 [Lecture video](https://youtu.be/TjhbHqkGeow)
 And remember, all the code is in the unit-6 folder here!
+
+## async await review lecture
+- featuring fetch, promise.all
+[Lecture Notes](./review-section/async-await-multiple-review-lecture/index.js)
