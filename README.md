@@ -36,6 +36,7 @@
     - [Intro to localStorage](#intro-to-localstorage)
   - [Promise Fundamentals](#promise-fundamentals)
   - [async await review lecture](#async-await-review-lecture)
+  - [Migrations and Seeds Lecture Code](#migrations-and-seeds-lecture-code)
 
 
 [Skip to Current Unit](#review-section)
@@ -234,3 +235,6 @@ And remember, all the code is in the unit-6 folder here!
 ## async await review lecture
 - featuring fetch, promise.all
 [Lecture Notes](./review-section/async-await-multiple-review-lecture/index.js)
+
+## Migrations and Seeds Lecture Code
+[Lecture Code](./review-section/lecture-code_migrations-seeds/migrations/20231116163529_create_books_table.js)

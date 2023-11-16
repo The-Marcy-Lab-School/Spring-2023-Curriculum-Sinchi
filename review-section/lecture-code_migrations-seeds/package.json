@@ -1,0 +1,23 @@
+{
+  "name": "lecture-code_migrations-seeds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "db": "psql -d migration_practice",
+    "migrate": "knex migrate:latest",
+    "seed": "knex seed:run",
+    "rollback": "knex migrate:rollback",
+    "migrate:make": "knex migrate:latest",
+    "seed:make": "knex seed:make",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "knex": "^3.0.1",
+    "pg": "^8.11.3"
+  }
+}
