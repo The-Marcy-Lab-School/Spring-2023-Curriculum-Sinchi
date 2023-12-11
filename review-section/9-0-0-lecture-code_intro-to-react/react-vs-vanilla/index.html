@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>No React</title>
+</head>
+<body>
+  <main>
+    <button id="click-counter">Count: 0</button>
+    <p id="preview-text">Next up: 1</p>
+  </main>
+
+  <script>
+    let total = 0;
+
+    const handleClick = (e) => {
+      const button = e.target;
+      total++;
+      button.textContent = `Count ${total}`;
+      const display = document.querySelector('#preview-text');
+      display.textContent = `Next Up ${total + 1}`;
+    }
+
+    document.querySelector('#click-counter')
+      .addEventListener('click', handleClick);
+  </script>
+</body>
+</html>

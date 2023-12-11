@@ -37,6 +37,7 @@
   - [Promise Fundamentals](#promise-fundamentals)
   - [async await review lecture](#async-await-review-lecture)
   - [Migrations and Seeds Lecture Code](#migrations-and-seeds-lecture-code)
+  - [React!](#react)
 
 
 [Skip to Current Unit](#review-section)
@@ -238,3 +239,6 @@ And remember, all the code is in the unit-6 folder here!
 
 ## Migrations and Seeds Lecture Code
 [Lecture Code](./review-section/lecture-code_migrations-seeds/migrations/20231116163529_create_books_table.js)
+
+## React!
+- [React Intro](./review-section/9-0-0-lecture-code_intro-to-react/README.md)
