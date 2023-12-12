@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>React Version</title>
+<script src="https://unpkg.com/react@18/umd/react.development.js"></script><script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script><script src="https://unpkg.com/babel-standalone@6/babel.js"></script>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel">
+  ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+
+  function App() {
+    const [total, setTotal] = React.useState(0);
+
+    const handleClick = () => setTotal(total + 1)
+
+    return <main>
+      <button onClick={handleClick}>Count: {total}</button>
+      <p>Next up: {total + 1}</p>
+    </main>
+  }
+</script>
+</body>
+</html>
