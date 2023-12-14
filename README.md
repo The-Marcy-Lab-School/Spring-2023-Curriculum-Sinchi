@@ -241,4 +241,6 @@ And remember, all the code is in the unit-6 folder here!
 [Lecture Code](./review-section/lecture-code_migrations-seeds/migrations/20231116163529_create_books_table.js)
 
 ## React!
+- [Lecture Video](https://youtu.be/ka-p5Mzyw5Q) 
 - [React Intro](./review-section/9-0-0-lecture-code_intro-to-react/README.md)
+
