@@ -13,7 +13,7 @@ export default function App() {
   return (
     <main>
       <Clicker count={count} handleClick={handleClick} />
-      <Alerter msg={count} />
+      <Alerter msg={count}/>
     </main>
   )
 }

@@ -1,3 +1,3 @@
-export default function Alerter({msg}) {
+export default function Alerter({ msg }) {
   return <p>{msg}</p>
 }

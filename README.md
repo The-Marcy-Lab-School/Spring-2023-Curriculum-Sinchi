@@ -38,6 +38,7 @@
   - [async await review lecture](#async-await-review-lecture)
   - [Migrations and Seeds Lecture Code](#migrations-and-seeds-lecture-code)
   - [React!](#react)
+  - [React + Express Single Server](#react--express-single-server)
 
 
 [Skip to Current Unit](#review-section)
@@ -241,6 +242,9 @@ And remember, all the code is in the unit-6 folder here!
 [Lecture Code](./review-section/lecture-code_migrations-seeds/migrations/20231116163529_create_books_table.js)
 
 ## React!
-- [Lecture Video](https://youtu.be/ka-p5Mzyw5Q) 
+- [Lecture Video](https://youtu.be/ka-p5Mzyw5Q)
 - [React Intro](./review-section/9-0-0-lecture-code_intro-to-react/README.md)
 
+## React + Express Single Server
+- [Lecture Video COMING SOON]()
+- [Code Notes](./review-section/9-x-x-lecture-code_react-express/README.md)
