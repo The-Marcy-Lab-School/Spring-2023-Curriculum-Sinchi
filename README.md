@@ -246,5 +246,5 @@ And remember, all the code is in the unit-6 folder here!
 - [React Intro](./review-section/9-0-0-lecture-code_intro-to-react/README.md)
 
 ## React + Express Single Server
-- [Lecture Video COMING SOON]()
+- [Lecture Video](https://www.youtube.com/watch?v=hyunQ6Y4Y-U)
 - [Code Notes](./review-section/9-x-x-lecture-code_react-express/README.md)
