@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cookie Practice</title>
+</head>
+<body>
+  <button id="add-count">Add 1</button>
+  <button id="clear-count">Reset</button>
+
+  <form>
+    <label for="name">Name:</label>
+    <input type="text" name="name" />
+    <label for="password">Password:</label>
+    <input type="password" name="password" />
+
+    <button>Log In</button>
+  </form>
+
+  <button id="log-out">Log Out</button>
+  <button id="current">Current User</button>
+
+  <script type="module">
+    // basic cookies
+    const incrementButton = document.querySelector('#add-count')
+    const resetButton = document.querySelector('#clear-count')
+
+    incrementButton.addEventListener('click', async () => {
+      // DON'T FORGET CREDENTIALS, this tells fetch to include cookies (and other auth headers)
+      const count = await fetch('/count', { credentials: 'include' }).then(r => r.json())
+      console.log('count:', count);
+    })
+
+    resetButton.addEventListener('click', async () => {
+      const newCount = await fetch('/count', { method: 'DELETE', credentials: 'include' }).then(r => r.json())
+      console.log('newCount:', newCount);
+    })
+
+    const logOutButton = document.querySelector('#log-out')
+    const currentUserButton = document.querySelector('#current')
+
+    document.forms[0].addEventListener('submit', async (e) => {
+      e.preventDefault()
+
+      const opts = {
+        method: 'POST',
+        credentials: 'include',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(Object.fromEntries(new FormData(e.target)))
+      }
+
+      const loggedInUser = await fetch('/login', opts).then(r => r.json())
+      console.log(loggedInUser)
+    })
+
+    logOutButton.addEventListener('click', async () => {
+      const res = await fetch('/logout', { credentials: 'include' })
+      console.log(res);
+    })
+
+    currentUserButton.addEventListener('click', async () => {
+      const user = await fetch('/me', { credentials: 'include' }).then(r => r.json())
+      console.log(user)
+    })
+  </script>
+</body>
+</html>

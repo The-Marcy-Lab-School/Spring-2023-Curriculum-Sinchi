@@ -39,6 +39,7 @@
   - [Migrations and Seeds Lecture Code](#migrations-and-seeds-lecture-code)
   - [React!](#react)
   - [React + Express Single Server](#react--express-single-server)
+  - [Express and Cookies!](#express-and-cookies)
 
 
 [Skip to Current Unit](#review-section)
@@ -248,3 +249,7 @@ And remember, all the code is in the unit-6 folder here!
 ## React + Express Single Server
 - [Lecture Video](https://www.youtube.com/watch?v=hyunQ6Y4Y-U)
 - [Code Notes](./review-section/9-x-x-lecture-code_react-express/README.md)
+
+## Express and Cookies!
+- [Lecture Video]
+- [Code Notes](./review-section/lecture-code_cookies/README.md)
