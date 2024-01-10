@@ -251,5 +251,5 @@ And remember, all the code is in the unit-6 folder here!
 - [Code Notes](./review-section/9-x-x-lecture-code_react-express/README.md)
 
 ## Express and Cookies!
-- [Lecture Video]
+- [Lecture Video](https://www.youtube.com/watch?v=0o97ycRXwBI)
 - [Code Notes](./review-section/lecture-code_cookies/README.md)
