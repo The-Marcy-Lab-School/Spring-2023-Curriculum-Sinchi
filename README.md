@@ -40,6 +40,7 @@
   - [React!](#react)
   - [React + Express Single Server](#react--express-single-server)
   - [Express and Cookies!](#express-and-cookies)
+  - [Auth and Cookies](#auth-and-cookies)
 
 
 [Skip to Current Unit](#review-section)
@@ -253,3 +254,7 @@ And remember, all the code is in the unit-6 folder here!
 ## Express and Cookies!
 - [Lecture Video](https://www.youtube.com/watch?v=0o97ycRXwBI)
 - [Code Notes](./review-section/lecture-code_cookies/README.md)
+
+## Auth and Cookies
+- VIDEO COMING SOON
+- [Code Notes](./review-section/lecture-code_auth-and-encrypt/README.md)
