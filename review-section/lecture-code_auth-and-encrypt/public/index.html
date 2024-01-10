@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cookie Practice</title>
+  <style>
+    form {
+      border: 2px solid black;
+      margin: 1rem;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <form aria-labelledby="create">
+    <h2 id="create">Create New User</h2>
+    <label for="name">Name:</label>
+    <input type="text" name="name" autocomplete="username" />
+    <label for="password">Password:</label>
+    <input type="password" name="password" autocomplete="current-password" />
+
+    <button>Create!</button>
+  </form>
+
+  <form aria-labelledby="login">
+    <h2 id="login">Login</h2>
+    <label for="name">Name:</label>
+    <input type="text" name="name" autocomplete="username" />
+    <label for="password">Password:</label>
+    <input type="password" name="password" autocomplete="current-password" />
+
+    <button>Log In!</button>
+  </form>
+
+
+  <button id="log-out">Log Out</button>
+  <button id="current">Current User</button>
+
+  <script type="module">
+
+    const createNewUserForm = document.forms[0]
+    const loginForm = document.forms[1]
+    const logOutButton = document.querySelector('#log-out')
+    const currentUserButton = document.querySelector('#current')
+
+    const getFetchOpts = (form) => ({
+      method: 'POST',
+      credentials: 'include',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(Object.fromEntries(new FormData(form)))
+    });
+
+
+    createNewUserForm.addEventListener('submit', async (e) => {
+      e.preventDefault()
+
+      const opts = getFetchOpts(e.target)
+
+      const newUser = await fetch('/users', opts).then(r => r.json())
+      console.log(newUser)
+    })
+
+    loginForm.addEventListener('submit', async (e) => {
+      e.preventDefault()
+
+      const opts = getFetchOpts(e.target)
+
+      const loggedInUser = await fetch('/login', opts).then(r => r.json())
+      console.log(loggedInUser)
+    })
+
+    logOutButton.addEventListener('click', async () => {
+      const res = await fetch('/logout', { credentials: 'include' })
+      console.log(res);
+    })
+
+    currentUserButton.addEventListener('click', async () => {
+      const user = await fetch('/me', { credentials: 'include' }).then(r => r.json())
+      console.log(user)
+    })
+  </script>
+</body>
+</html>
