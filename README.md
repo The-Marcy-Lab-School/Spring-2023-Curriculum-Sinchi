@@ -256,5 +256,5 @@ And remember, all the code is in the unit-6 folder here!
 - [Code Notes](./review-section/lecture-code_cookies/README.md)
 
 ## Auth and Cookies
-- VIDEO COMING SOON
+- [Lecture Video](https://youtu.be/FalaauEFLyU)
 - [Code Notes](./review-section/lecture-code_auth-and-encrypt/README.md)
